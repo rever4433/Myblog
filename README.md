@@ -6,3 +6,6 @@ My blog is consist of stable Html webpages.Use my Html and CSS code,you can writ
 1.upload my website source code<br>
 2.Add a navigation bar<br>
 
+# Sorry for that..
+The above URL has been deprecated. But that didn't mean you can not get my blog in the internet.[Rever4433](https://rever4433.github.io/),the whole new website supported by jekyll is my new website now.If you want to read my blog or contact me just visit the above URL.Thank you.
+
